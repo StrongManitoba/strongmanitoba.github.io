@@ -1,6 +1,6 @@
 ---
 title: SCC Provincials
-image: /images/2026/SCCProvincials.png
+image: /images/2026/SCCProvincials.jpg
 tags:
   - SCC
 dates:
