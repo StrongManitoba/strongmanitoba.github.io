@@ -15,7 +15,10 @@ If you’re feeling weak, you should probably stay home.
 
 Whether you’re chasing the biggest title in Manitoba, testing yourself against the best in the province, or just coming to make a statement, THIS IS IT.
 
-- CASH PRIZES - Iron Image Barbell Club - Saturday, July 11 - Registration closes MAY 21 at MIDNIGHT
+- CASH PRIZES  
+- Iron Image Barbell Club  
+- Saturday, July 11  
+- Registration closes MAY 21 at MIDNIGHT  
 
 Sign up now through the link in our bio or at ironimage.ca
 
