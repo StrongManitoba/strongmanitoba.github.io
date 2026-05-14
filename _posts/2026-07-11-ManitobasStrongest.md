@@ -1,6 +1,6 @@
 ---
 title: Manitoba's Strongest
-image: /images/2026/ManitobasStrongest.png
+image: /images/2026/ManitobasStrongest.jpg
 tags:
   - 
 dates:
