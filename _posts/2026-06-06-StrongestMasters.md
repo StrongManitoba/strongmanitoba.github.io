@@ -1,6 +1,6 @@
 ---
 title: Strongest Masters
-image: /images/2026/StrongestMasters.png
+image: /images/2026/StrongestMasters.jpg
 tags:
   - Masters
 dates:
