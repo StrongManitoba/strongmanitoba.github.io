@@ -1,0 +1,65 @@
+# Basic site setup
+title: StrongManitoba
+description: Because I hate Instagram.
+accent_colour: "#DDAADD"
+theme_version: 1.0.0
+url: https://strongmanitoba.github.io
+
+# Optional native feature customisation (delete to turn off)
+table_of_contents_header: "Jump to:"
+table_of_contents_collapsible: true
+
+
+show_excerpts: false
+open_external_links_in_new_tab: true
+outdated_content_warning:
+  warning_text: "⚠️ This post is from <b><DATE></b> and may not be what you are looking for."
+  placeholder_text: "<DATE>"
+  warning_threshold_days: 300
+  ignore_date_updated: false
+
+# Setting article defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+author:
+  name: StrongManitoba
+  url: https://strongmanitoba.github.io
+
+
+# Social / dark mode settings
+minima:
+  skin: auto
+  social_links:
+     - { platform: instagram, user_url: "https://www.instagram.com/strongmanitoba/" }
+
+# Show future-dated posts
+future: true
+
+###
+# Below here probably doesn't need changing #
+###
+
+# Site settings
+permalink: /:title/
+timezone: America/Winnipeg
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Pagination settings
+paginate: 5
+paginate_path: page/:num/
+
+# Syntax highlighter settings
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: kotlin
+    guess_lang: true
