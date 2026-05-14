@@ -1,6 +1,6 @@
 ---
 title: Prairie's Strongest
-image: /images/2026/PrairiesStrongest.png
+image: /images/2026/PrairiesStrongest.jpg
 tags:
   - SCC
 dates:
