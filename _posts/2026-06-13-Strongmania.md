@@ -2,7 +2,7 @@
 title: Strongmania 2
 image: /images/2026/Strongmania2.jpg
 tags:
-  - SCC, Strongman Corporation Canada
+  - SCC
 dates:
   - { date: "2026-06-13", title: "Strongmania 2026" }
 ---
