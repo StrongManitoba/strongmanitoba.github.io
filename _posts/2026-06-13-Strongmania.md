@@ -1,6 +1,6 @@
 ---
 title: Strongmania 2
-image: /images/2026/Strongmania2.png
+image: /images/2026/Strongmania2.jpg
 tags:
   - SCC, Strongman Corporation Canada
 dates:
