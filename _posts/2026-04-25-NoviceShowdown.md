@@ -1,6 +1,6 @@
 ---
 title: Novice Showdown
-image: /images/2026/NoviceShowdown.png
+image: /images/2026/NoviceShowdown.jpg
 tags:
   - Novice
 dates:
