@@ -1,6 +1,6 @@
 ---
 title: Charity Log Lift
-image: /images/2026/CharityLogLift.png
+image: /images/2026/CharityLogLift.jpg
 tags:
   - Charity
 dates:
