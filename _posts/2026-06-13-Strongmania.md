@@ -28,4 +28,4 @@ Iron Image, Selkirk
 - Frame Carry
 - Natural Stone to Shoulder
 
-![](../images/2026/StrongmaniaWeights.png)
+![](../images/2026/StrongmaniaWeights.jpg)
